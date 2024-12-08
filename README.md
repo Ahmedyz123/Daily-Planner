@@ -26,6 +26,6 @@ The **Daily Planner Website** is a tool designed to help users organize their da
 ## Team Members  
 - **Member 1**: Waleed Alsafari - ID: 2135137  
 - **Member 2**: Emad Alzahrani - ID: [ID]  
-- **Member 3**: Faisal Alghamdi - ID: [ID]  
+- **Member 3**: Faisal Alghamdi - ID: 2136443  
 - **Member 4**: Ahmed Alamoudi - ID: [ID]  
 
